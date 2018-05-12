@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '40253'
     url: http://www.gutenberg.org/2009/agents/40253
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39828#Early-American-Plays1714-1830
 gutenberg_issued: '2012-05-28'
 gutenberg_type: Text
 identifiers:
